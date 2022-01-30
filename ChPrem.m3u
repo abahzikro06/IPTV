@@ -262,6 +262,10 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/115-1155244_film-reel-icon-movie-logo-png-clipart.png" group-title="DP@MOVIES1", (DP) BLACK MOVIE
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
+
+
 <----------------------------------- Entertainment --------------------------------------->
 
 #EXTINF:-1  tvg-id="ext" group-title="Entertaiment" tvg-logo="https://i.imgur.com/fKNAva5.png",Rock Entertainment
