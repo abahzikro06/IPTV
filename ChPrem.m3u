@@ -262,7 +262,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/115-1155244_film-reel-icon-movie-logo-png-clipart.png" group-title="DP@MOVIES1", (DP) BLACK MOVIE
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/115-1155244_film-reel-icon-movie-logo-png-clipart.png" group-title="MOVIES", BLACK MOVIE
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
 
 
@@ -322,7 +322,7 @@ http://rr3.dens.tv/s/s63/index2.m3u8
 http://rr2.dens.tv/s/s38/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="Comedy" tvg-id="FailArmy.us" tvg-name="FailArmy.us", FailArmy (1080p)
+#EXTINF:-1 tvg-id="FailArmy.us" group-title="Entertaiment" tvg-name="FailArmy.us" tvg-logo="https://i.imgur.com/nbzbHum.png", FailArmy (1080p)
 https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
 
 <----------------------------------- Knowledge --------------------------------------->
