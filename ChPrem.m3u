@@ -328,9 +328,6 @@ https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="People Awesome" group-title="Entertaiment", Poeple Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
-#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-
 #EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
