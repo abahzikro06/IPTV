@@ -534,6 +534,29 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-id="Erz.ufc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&amp;usqp=CAU" group-title="SPORTS",UFC Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8
 
+<----------------------------------- BEIN SPORT --------------------------------------->
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 1 
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 2 
+http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 3 
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 4 
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 5 
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 6 
+http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 7 
+http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
+
 <----------------------------------- KIDS --------------------------------------->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
