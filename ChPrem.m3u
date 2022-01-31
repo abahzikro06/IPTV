@@ -325,6 +325,9 @@ http://rr2.dens.tv/s/s38/01.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" group-title="Entertaiment" tvg-name="FailArmy.us" tvg-logo="https://i.imgur.com/nbzbHum.png", FailArmy (1080p)
 https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="People Awesome" group-title="Entertaiment", Poeple Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
 <----------------------------------- Knowledge --------------------------------------->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
