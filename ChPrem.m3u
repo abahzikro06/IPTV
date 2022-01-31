@@ -328,6 +328,21 @@ https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="People Awesome" group-title="Entertaiment", Poeple Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
+#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
 <----------------------------------- Knowledge --------------------------------------->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -814,6 +829,11 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
 #EXTINF:-1  tvg-id="ext" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",CMC USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 
+#EXTINF:-1 group-title="Music",AmoyHouseRelax
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png", MolaHitsTV
+http://ventdelnord.tv:8080/mola/directe.m3u8
 
 <----------------------------------- Malaysia Channel --------------------------------------->
 
@@ -916,5 +936,33 @@ http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="Local Channel", Duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
 
+<----------------------------------- Relegi --------------------------------------->
+
+#EXTINF:-1 group-title="RELIGI",Rodja TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+
+#EXTINF:-1 group-title="RELIGI", Al Quran Al Kareem TV
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 group-title="RELIGI", AL Sunnah Nabawi TV
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 group-title="RELIGI", Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+
+#EXTINF:-1 group-title="RELIGI", Iqra TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1 group-title="RELIGI", ADI_TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGI", Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGI", Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w1427178391.m3u8
+
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://www.dropbox.com/s/7hh6fym9pvxk1w5/al iman tv.png?dl=1", AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
 </body></html>
