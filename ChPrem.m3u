@@ -973,10 +973,10 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="http://dusktill.masuk.web.id/img/mgitv.png", MGI TV
 https://tv.rodja.live/tasik/mgitv/index.m3u8
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV
+#EXTINF:-1 group-title="RELIGI" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV 2
+#EXTINF:-1 group-title="RELIGI" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV 2
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 </body></html>
