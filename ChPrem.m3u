@@ -796,6 +796,9 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hZ92sSy/Paltv-Palembang.png" group-title="Local Channel", PAL TV Palembang 
 http://122.248.43.138:1935/ch7/myStream/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://mc.tabalongkab.go.id/wp-content/uploads/2019/04/logo-tv-tabalong.png" group-title="Local Channel", TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
 #EXTINF:-1  tvg-id="JITV.id" group-title="Local Channel" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
 http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
 
