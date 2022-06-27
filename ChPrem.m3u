@@ -291,6 +291,12 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Playboy
+http://190.83.119.67:8000/play/a0ow/index.m3u8
+
+#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Venus
+http://190.83.119.67:8000/play/a0rn/index.m3u8
+
 <----------------------------------- Knowledge --------------------------------------->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
