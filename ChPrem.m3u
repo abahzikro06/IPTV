@@ -101,28 +101,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="JAKARTA GLOBE NEWS CHANNEL" tvg-name="JAKARTA GLOBE NEWS CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="Indonesia Channel",Jakarta Globe News Channel
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Indonesia Channel",O Channel
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
-
-#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-url="http://www.dens.tv" tvg-logo="https://i.pinimg.com/originals/e6/d6/4c/e6d64c019581df3d7ecd8b7111798e8f.png" group-title="Indonesia Channel",My tv
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Daai TV" tvg-name="Daai TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="Indonesia Channel",DAAI TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="Indonesia Channel",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-
-#EXTINF:-1 tvg-id="UGTV" tvg-name="" tvg-url="" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/01/logo-ug.png" group-title="Indonesia Channel",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-#EXTINF:-1 tvg-id="TV PARLEMEN" tvg-name="TV PARLEMEN" tvg-url="http://www.firstmedia.com" tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="Indonesia Channel",TV PARLEMEN
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 <----------------------------------- Movie --------------------------------------->
 
@@ -412,100 +395,298 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="SPORTS",Motorvision
 http://rr.dens.tv/h/h09/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest/scale-to-width-down/284?cb=20200428062800" group-title="SPORTS", Champions TV 1
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
-http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
-http://golive.cf/vidio/live-champion1.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
-http://golive.cf/stream/champion1.m3u8
-https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-1.m3u8
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest/scale-to-width-down/284?cb=20210621091959" group-title="SPORTS", Champions TV 2
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
-http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
-http://golive.cf/vidio/live-champion2.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
-http://golive.cf/stream/champion2.m3u8
-https://iptv.mwafa.net/vidio/6686/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-2.m3u8
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="SPORTS", Champions TV 3
-https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
-http://golive.cf/vidio/live-champion3.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
-http://golive.cf/stream/champion3.m3u8
-https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-3.m3u8
-http://dituduhmaling.xyz/V11710/championstv3.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="SPORTS",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/185?cb=20170731002804" group-title="SPORTS",NBA TV
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nba&gumisasakTV=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png" group-title="SPORTS",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="Erz.ufc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&amp;usqp=CAU" group-title="SPORTS",UFC Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",Bein Sports 1 Indonesia
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",Bein Sports 2 Indonesia
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",Bein Sports Xtra
+https://bit.ly/3t7HM45
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
+https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Sports",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnLYc1hd0ZFUYR2nXDZaW4HHQhG4Ek8oQ-Q&usqp=CAU" group-title="Sports",Glory Kickboxing
+https://bit.ly/3GCBoqY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="Sports",Bellator MMA
+https://bit.ly/3O4uBZV
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#EXTINF:-1 tvg-ID="" tvg-name="RTM SUKAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="Sports",RTM SUKAN  
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/anwqqIH.png" group-title="Sports", FIGHTBOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV" group-title="Sports" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg", Motorvision TV HD
+http://rr.dens.tv/h/h09/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://uploads.dailydot.com/2020/09/stadium-logo-2000x1000-1.jpg?auto=compress&fit=scale&fm=pjpg&h=350&w=700",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Useeprime.png" group-title="Sports",UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://wrestlingheadlines.com/wp-content/uploads/2021/06/impact-wrestling-logo.jpg",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+<----------------------------------- SPORTS 1 --------------------------------------->
+
+#EXTINF:-1 group-title="Sports 1,
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Maximo
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29929?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport La Liga
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29943?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Action
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29937?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Variety 1
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29938?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Variety 2
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29939?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Variety 3
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29934?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Variety 4
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29935?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Grandstand
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29940?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport PSL
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29942?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Rugby
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29933?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Cricket
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29932?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS",
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="http://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png", Sport TV 1
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/6494?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwwxrx1436898851.png", Sport TV 2
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/6495?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/twyypw1436898859.png", Sport TV 3
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/6496?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png", Sport TV 4
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/6497?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vvvqxp1470408443.png", Sport TV 5
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/6498?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19170?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19171?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19172?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/19173?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1024px-Sony_TEN_logo.png", Sony Ten 1
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/34106?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://www.seekpng.com/png/full/86-865497_sony-ten2-sony-ten-2-logo.png", Sony Ten 2
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/34107?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png", Sony Liv
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/34108?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqD5uHfv6JiXAV1syD_nBoNmgFL_lUx-nBtg&usqp=CAU", BT Sport 1
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/1641?
+
+#EXTINF:-1 group-title="Sports 1 (SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSISxT_zRgvsxEWef3071nmiRA7MnwUWe64rg&usqp=CAU", BT Sport 2
+http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/375?
+
+<----------------------------------- SPORTS 2 --------------------------------------->
+
+#EXTINF:-1 group-title="Sports 2 (SPORTS)",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5ZwUMnDB8ASYFzI8FXxtYn-nLnaUTcpNkA&usqp=CAU" group-title="Sports 2 (SPORTS)", ASTRO ARENA 1
+http://urtv.cc/live/435118/435118/6707.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5ZwUMnDB8ASYFzI8FXxtYn-nLnaUTcpNkA&usqp=CAU" group-title="Sports 2 (SPORTS)", ASTRO ARENA 2
+http://urtv.cc/live/454781209544/431009674535/9028.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3b_Fn6qAD6q63mDrcos2FgPV7RqyZGH4gA&usqp=CAU" group-title="Sports 2 (SPORTS)", ASTRO SUPERSPORTS 1
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
+http://203.154.243.89:21201/nakhon
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3b_Fn6qAD6q63mDrcos2FgPV7RqyZGH4gA&usqp=CAU" group-title="Sports 2 (SPORTS)", ASTRO SUPERSPORTS 2
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
+http://203.154.243.89:21202/nakhon
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3b_Fn6qAD6q63mDrcos2FgPV7RqyZGH4gA&usqp=CAU" group-title="Sports 2 (SPORTS)", ASTRO SUPERSPORTS 3
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3b_Fn6qAD6q63mDrcos2FgPV7RqyZGH4gA&usqp=CAU" group-title="Sports 2 (SPORTS)", ASTRO SUPERSPORTS 4
+http://203.154.243.89:21204/nakhon
+http://axcestv.vip:8080/live/freeview/axcestv/791.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Sports 2 (SPORTS)", FOX SPORTS 1 MX
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", group-title="Sports 2 (SPORTS)", FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", group-title="Sports 2 (SPORTS)", FOX SPORTS 3 MX
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 <----------------------------------- BEIN SPORT --------------------------------------->
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 1 
-https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Bein Sports ARAB (SPORTS)",
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 1 
-https://iioap-21iigk-agbmpd.googglecdns.com/edu/ch01/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports Premium 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/58839
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 2 
-https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports Premium 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103068
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORT", Bein sport 2 
-https://iioap-21iigk-agbmpd.googglecdns.com/edu/ch02/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports Premium 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/58840
 
-#EXTINF:-1  tvg-id="ext" group-title="BEIN SPORT" tvg-logo="https://i.imgur.com/FP0Nhnx.png",beIN Sports Xtra
-https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports Premium 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/103069
 
-#EXTINF:-1  tvg-id="ext" group-title="BEIN SPORT" tvg-logo="https://i.imgur.com/FP0Nhnx.png",beIN Sports Xtra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports Premium 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/58841
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="BEIN SPORT", beIN Sports Malaysia & Singapore
-http://139.99.56.106:2082/sakinah1/sakinah1/8414
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports Premium 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/103070
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="BEIN SPORT", beIN Sports 3 Malaysia & Singapore
-http://139.99.56.106:2082/sakinah1/sakinah1/8413
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/58829
 
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SuperSport Premier League" tvg-logo="https://i.postimg.cc/ncqQvY1M/supersport-premier-league.png" group-title="BEIN SPORT", SuperSport Premier League
-http://iptv12k.com:35461/8022022301/468985/5671
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103062
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BEIN SPORT",Sky Sports Premier League
-http://iptv12k.com:35461/8022022301/468985/2337
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/58832
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN SPORT",Beinsport English 1
-http://new-pro.tv:8080/Fernando/123321/33690
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/58834
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORT",Beinsport English 2
-http://new-pro.tv:8080/Fernando/123321/33694
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 4
+http://gplus.live:8080/168573780756/N9UFR0P64W/58835
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="BEIN SPORT",Beinsport English 3
-http://new-pro.tv:8080/Fernando/123321/33693
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 5
+http://gplus.live:8080/168573780756/N9UFR0P64W/58836
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 6
+http://gplus.live:8080/168573780756/N9UFR0P64W/58837
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 7
+http://gplus.live:8080/168573780756/N9UFR0P64W/58838
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports 7
+http://gplus.live:8080/168573780756/N9UFR0P64W/103067
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports FR 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103126
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports FR 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/103127
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports FR 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/103128
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports ENG 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103123
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports ENG 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/103124
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports ENG 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/103125
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports EXTRA 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103102
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports EXTRA 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/103103
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports AFC
+http://gplus.live:8080/168573780756/N9UFR0P64W/171694
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports AFC 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/171695
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports AFC 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/171696
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports NBA
+http://gplus.live:8080/168573780756/N9UFR0P64W/59382
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Bein Sports ARAB (SPORTS)",Bein Sports News
+http://gplus.live:8080/168573780756/N9UFR0P64W/84478
 
 <----------------------------------- KIDS --------------------------------------->
 
