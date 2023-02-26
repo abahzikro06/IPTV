@@ -1,7 +1,7 @@
 #EXTM3U
 --- Netherland ---
 #EXTINF:-1 tvg-logo=““ group-title=“Netherland” tvg-id=““, NL - NPO 1 HD ◉
-http://pro.ipcover.tv:8080/krull05/30052022/204407
+http://pro.ipcover.tv:8080/krull05/30052022/204407.ts
 
 #EXTINF:-1 tvg-logo=““ group-title=“Netherland” tvg-id=““, NL - NPO 2 HD ◉
 http://pro.ipcover.tv:8080/krull05/30052022/204408
