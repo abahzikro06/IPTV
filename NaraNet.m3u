@@ -1,4 +1,5 @@
 
+
 404 : Not Found
 
 
@@ -11182,3 +11183,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",tvN3
 https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
+
+
+#EXTM3U billed-msg="⛔ Playlist Ini Hanya Untuk Pelanggan Viosnet ⛔"
+#EXTM3U billed-msg="*(Playlist ViosNet) Selain Pelanggan Akan Di Hack*"
